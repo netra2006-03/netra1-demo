@@ -36,7 +36,7 @@ class Solution {
         return true;
     }
 
-    // \U0001f447 You forgot to include this earlier
+    
     private ListNode reverseLinkedList(ListNode head) {
         ListNode prev = null;
         while (head != null) {
